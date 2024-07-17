@@ -1,0 +1,23 @@
+{
+  "name": "minhaj-mongo-id",
+  "version": "1.0.0",
+  "description": "This is a module to create unique id like mongo db",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://www.github.com/dreamland-minhaj/minhaj-mongo-id.git"
+  },
+  "homepage": "www.dreamlandit.com",
+  "keywords": [
+    "mongo-id",
+    "unique-id",
+    "create-id",
+    "generate-id"
+  ],
+  "author": "Minhajul Islam",
+  "license": "ISC"
+}
